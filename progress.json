@@ -18,5 +18,14 @@
       "Did not add joe.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786586208.65199,
+    "completed_at": 1786586210.253707,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
