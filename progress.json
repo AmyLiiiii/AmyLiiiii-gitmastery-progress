@@ -452,5 +452,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1786969790.823133,
+    "completed_at": 1786969794.16446,
+    "comments": [
+      "Expected commit message of 'Fix phrasing of heading', got 'Mention feature for searching books' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
