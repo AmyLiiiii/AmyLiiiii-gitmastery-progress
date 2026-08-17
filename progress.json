@@ -326,5 +326,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1786968059.305834,
+    "completed_at": 1786968062.547913,
+    "comments": [
+      "You need to start merging the feature branches."
+    ],
+    "status": "Incomplete"
   }
 ]
